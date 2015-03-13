@@ -1,4 +1,4 @@
-Pytrain
+PyStrain
 ===========
 
 PyStrain is a python script that calculate the strain by image correlation by tracking the position of two markers in a series of images. It uses [Openpiv](https://github.com/alexlib/openpiv-python) (Particule Image Velocimetry) to determine markers motion and [PyQtGraph](http://www.pyqtgraph.org/) for the graphical user interface.
