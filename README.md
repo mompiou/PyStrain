@@ -15,7 +15,7 @@ PyStrain is a python script that calculate the strain by image correlation by tr
 
 ## Interface
 
-![img1](/img1.png?raw=true)
+![img1](/im1.png?raw=true)
 
  
 ## Markers displacement
@@ -27,7 +27,7 @@ Markers displacement vector can be determined as follow:
 * Drag the ROI (in red) in the first image to the marker area. The bottom left image is a zoom in the ROI. Set the same ROI in the image on the right by pressing the button "Set area". The bottom right image should be updated. The ROI size can be changed using the handle.
 * Press the "PIV" button. An arrow should be plotted in the ROI in the right image showing the marker displacement.
  
-![img1](/img2.png?raw=true)
+![img1](/im2.png?raw=true)
 
 * The x and y components (u,v) of the displacement vector should appear in pixel units.
 
@@ -38,7 +38,7 @@ To treat a series of picture:
 * Choose a second marker, set the are and click on "Serie".
 * Finally click on "Strain". A stress-strain plot appears, using the stress.txt file for stress values.
 
-![img1](/img2.png?raw=true)
+![img1](/im3.png?raw=true)
 
 * The strain values are stored in the result.txt file
 * Press "Reset" to erase ROI and previous calculations
